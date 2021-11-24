@@ -66,5 +66,16 @@ html {
           fontsize:1.4rem;
       }
   }
-
+  #headline {
+    margin: 50px 0;
+    text-align: center;
+  }
+  
+  blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  
   
